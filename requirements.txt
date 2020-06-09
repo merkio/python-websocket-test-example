@@ -1,0 +1,9 @@
+pywsitest
+pytest
+pytest-rerunfailures
+allure-pytest
+allure-python-commons
+websockets
+pytest-asyncio
+jsonschema
+websocket_client
